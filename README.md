@@ -2,6 +2,7 @@
 # Data Analysis and Visualisation Tool
 
 This Python tool allows you to load data from various sources (CSV, Excel, Google Sheets, or JSON), inspect it, create different types of plots, ask questions about the data using OpenAI's GPT-3 model, and save the conversation history.
+This tool is created with the help of ChatGPT as I am no coder.
 
 ## Features
 

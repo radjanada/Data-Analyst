@@ -1,0 +1,9 @@
+pandas
+plotly
+os
+gspread
+json
+oauth2client
+requests
+pickle
+numpy
